@@ -1,0 +1,8 @@
+/* Estilos para el cuerpo de la página */
+body {
+    background-color: #f0f0f0; /* Color de fondo de respaldo */
+    background-image: url('https://www.publimetro.pe/resizer/lCpk-nXTLgqgDLAqVS0k9xBSZ88=/800x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/metroworldnews/GG7FLMBB2FCAZAH662ZN7HSSME.jpg'); /* Imagen de fondo */
+    background-size: cover; /* Ajusta la imagen de fondo para cubrir todo el cuerpo */
+    background-position: center; /* Centra la imagen de fondo */
+    background-repeat: no-repeat; /* Evita que la imagen de fondo se repita */
+}
